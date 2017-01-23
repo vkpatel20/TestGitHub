@@ -1,2 +1,3 @@
 # TestGitHub
-Just For Test
+This is just for test.
+
